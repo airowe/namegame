@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Name Game</string>
+    <string name="cdFace">A face</string>
+
+
+    <string name="basic_play">Basic Play</string>
+    <string name="matt_play">Matt Play</string>
+    <string name="reverse_play">Reverse Play</string>
+    <string name="hint_mode">Hint Mode</string>
+
+    <string name="name_game_frag_tag">Name Game Fragment</string>
+    <string name="play_mode_frag_tag">Play Mode Fragment</string>
+
+    <string name="play_again">Play Again</string>
+    <string name="game_play_hint">Choose one of the game modes above, then press play.</string>
+    <string name="choose_mode">Please choose a mode</string>
+</resources>
